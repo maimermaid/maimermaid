@@ -8,13 +8,7 @@ A freshman of 🥐 Computer Engineering and Digital Technology Chulalongkorn Uni
 ### My interests🧚🏻‍♀️ 
 📊 Data Science
 
-🤖 Robotics & AI
-
-🧩 Jigsaw Puzzle
-
-🤸🏻 Sports
-
-🤿 Diving
+🏦 FinTech
 
 ### My skills🧚🏻‍♀️ 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width=30 /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" width=30 /> 
